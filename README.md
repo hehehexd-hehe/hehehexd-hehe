@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=79C0FF&center=true&vCenter=true&width=1000&lines=HEHEHEXD-HEHE;QUANTUM+ARCHITECT+%2F%2F+WEB3+ENGINEER;INITIALIZING+DIGITAL+DOMAIN..." alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=79C0FF&center=true&vCenter=true&width=1000&lines=DEVARGHO+CHAKRABORTY;QUANTUM+ARCHITECT+%2F%2F+WEB3+ENGINEER;INITIALIZING+DIGITAL+DOMAIN..." alt="Header" />
 </div>
 
 <div align="center">
@@ -35,15 +35,15 @@
 
       <td width="45%" valign="top" align="center">
         <h3 align="center">⚡ SYSTEM_METRICS</h3>
-        <a href="https://github.com/hehehexd-hehe">
-          <img src="https://github-readme-stats.vercel.app/api?username=hehehexd-hehe&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%" />
+        <a href="https://github.com/Boredooms">
+          <img src="https://github-readme-stats.vercel.app/api?username=Boredooms&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%" />
         </a>
         <br/>
-        <a href="https://github.com/hehehexd-hehe">
-          <img src="https://nirzak-streak-stats.vercel.app/?user=hehehexd-hehe&theme=tokyonight&hide_border=true&background=00000000&stroke=79C0FF&ring=bb9af7&fire=79C0FF&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=79C0FF&sideLabels=79C0FF" width="100%" />
+        <a href="https://github.com/Boredooms">
+          <img src="https://nirzak-streak-stats.vercel.app/?user=Boredooms&theme=tokyonight&hide_border=true&background=00000000&stroke=79C0FF&ring=bb9af7&fire=79C0FF&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=79C0FF&sideLabels=79C0FF" width="100%" />
         </a>
         <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hehehexd-hehe&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boredooms&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%" />
       </td>
     </tr>
   </table>
@@ -56,14 +56,14 @@
   
   <h3 align="center">🏆 TROPHY_CASE</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hehehexd-hehe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Boredooms&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
   </a>
 </div>
 
 <div align="center">
   <br/>
   <h3 align="center">🧬 CONTRIBUTION_DNA</h3>
-  <img src="https://raw.githubusercontent.com/hehehexd-hehe/hehehexd-hehe/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Boredooms/Boredooms/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
 </div>
 
 <div align="center">
@@ -72,15 +72,13 @@
   <br/>
   
   <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <a href="https://linkedin.com/in/devargho-chakraborty">
       <img src="https://img.shields.io/badge/LINKEDIN-NETWORK_UPLINK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    
-    <a href="https://YOUR_WEBSITE.com">
+    <a href="https://devargho.dev">
       <img src="https://img.shields.io/badge/PORTFOLIO-ACCESS_TERMINAL-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
     </a>
-    
-    <a href="mailto:YOUR_EMAIL@gmail.com">
+    <a href="mailto:devargho.chakraborty@gmail.com">
       <img src="https://img.shields.io/badge/EMAIL-SECURE_COMMS-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
@@ -89,5 +87,5 @@
     /* SYSTEM_STATUS: ONLINE && READY_TO_CODE */
   </p>
   
-  <img src="https://visitcount.itsvg.in/api?id=hehehexd-hehe&icon=5&color=2&style=for-the-badge&labelColor=1a1b26" />
+  <img src="https://visitcount.itsvg.in/api?id=Boredooms&icon=5&color=2&style=for-the-badge&labelColor=1a1b26" />
 </div>
