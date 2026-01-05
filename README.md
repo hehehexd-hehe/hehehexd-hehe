@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=79C0FF&center=true&vCenter=true&width=1000&lines=DEVARGHO+CHAKRABORTY;QUANTUM+ARCHITECT+%2F%2F+WEB3+ENGINEER;INITIALIZING+DIGITAL+DOMAIN..." alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=79C0FF&center=true&vCenter=true&width=1000&lines=HEHEHEXD-HEHE;QUANTUM+ARCHITECT+%2F%2F+WEB3+ENGINEER;INITIALIZING+DIGITAL+DOMAIN..." alt="Header" />
 </div>
 
 <div align="center">
@@ -72,13 +72,15 @@
   <br/>
   
   <p>
-    <a href="https://linkedin.com/in/devargho-chakraborty">
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
       <img src="https://img.shields.io/badge/LINKEDIN-NETWORK_UPLINK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://devargho.dev">
+    
+    <a href="https://YOUR_WEBSITE.com">
       <img src="https://img.shields.io/badge/PORTFOLIO-ACCESS_TERMINAL-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
     </a>
-    <a href="mailto:devargho.chakraborty@gmail.com">
+    
+    <a href="mailto:YOUR_EMAIL@gmail.com">
       <img src="https://img.shields.io/badge/EMAIL-SECURE_COMMS-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
